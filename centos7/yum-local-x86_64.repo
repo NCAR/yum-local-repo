@@ -1,0 +1,6 @@
+[yum-local-x86_64]
+name=Local Repository for CentOS-7 x86_64 Packages
+baseurl=https://repo.ucar.edu/artifactory/yum-local/7/os/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7

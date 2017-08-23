@@ -1,4 +1,4 @@
-[yum-local]
+[yum-local-noarch]
 name=Local Repository for CentOS-7 noarch Packages
 baseurl=https://repo.ucar.edu/artifactory/yum-local/7/os/noarch/
 enabled=1
